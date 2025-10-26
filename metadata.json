@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Google Maps Lead Extractor",
+  "description": "An AI-powered application to find, analyze, and extract local business leads from Google Maps. Enter a query, and the app will generate a list of relevant businesses, which you can then analyze for marketing insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
